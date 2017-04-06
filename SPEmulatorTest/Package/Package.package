@@ -1,0 +1,3 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" Id="ab4e7887-0723-4021-b11d-b3e73de52262" solutionId="ab4e7887-0723-4021-b11d-b3e73de52262" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" name="SPEmulatorTest">
+</package>
